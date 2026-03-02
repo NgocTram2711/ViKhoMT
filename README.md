@@ -148,7 +148,12 @@ Full results across all model architectures (Transformer-base, mBART-50, NLLB-20
 
 ## License
 
-This dataset is released for **free research purposes** to support future studies and the development of practical translation tools for the K'Ho community.
+This dataset is released under a **research-only license**.
+
+- **Permitted:** Academic research, non-commercial studies, and educational use.
+- **Prohibited:** Commercial use, redistribution for profit, or integration into commercial products or services without explicit written permission from the authors.
+
+By using this dataset, you agree to use it solely for non-commercial research purposes. For commercial licensing inquiries, please contact the authors directly.
 
 ---
 
